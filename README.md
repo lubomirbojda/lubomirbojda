@@ -16,7 +16,7 @@
 <p align="left">
   <h4>Hi, I am Ľubomír Bojda.</h4>
 
-  - 🎂 Age: 22  
+  - 🎂 Age: 23  
   - 🌍 Nationality: <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg" width="20" /> Slovakia
 
   🎓 Education
